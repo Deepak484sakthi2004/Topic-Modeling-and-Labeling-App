@@ -1,0 +1,4 @@
+gensim
+openai-whisper
+streamlit
+pytube
