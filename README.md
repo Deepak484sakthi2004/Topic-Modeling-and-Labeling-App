@@ -36,9 +36,14 @@ This repository contains the code for a user-friendly Topic Modeling and Labelin
     streamlit run app.py
     ```
 
-### Demo Website
+### Live Deployment
 
-Visit the live demo website: [Topic Modeling and Labeling App](https://topic-modeling-and-labeling-app.onrender.com/)
+The Topic Modeling and Labeling App has been deployed and is accessible online.
+
+- **Live Demo:** [Topic Modeling and Labeling App](https://topic-modeling-and-labeling-app.onrender.com/)
+- **GitHub Repository:** [Topic Modeling and Labeling App Repository](https://github.com/Deepak484sakthi2004/Topic-Modeling-and-Labeling-App)
+
+Feel free to explore the live deployment and provide feedback!
 
 ## Usage
 
@@ -60,6 +65,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Streamlit](https://streamlit.io/) for the excellent web framework.
 - [OpenAI](https://www.openai.com/) for the Whisper model used in speech-to-text.
 
-Don't forget to like, comment, and subscribe for more tutorials like this!
 
 For detailed instructions, visit the [GitHub Repository](https://github.com/Deepak484sakthi2004/Topic-Modeling-and-Labeling-App).
